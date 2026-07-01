@@ -40,7 +40,7 @@ export default function Home() {
             href="/auth/login" 
             className="px-8 py-3 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-slate-200 font-medium transition-all hover:scale-105 active:scale-95 duration-200 backdrop-blur-md"
           >
-            Access Dashboard
+            Sign in
           </Link>
         </div>
 
